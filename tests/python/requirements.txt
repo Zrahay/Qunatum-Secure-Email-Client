@@ -1,0 +1,6 @@
+# Test dependencies for QuMail Python crypto services
+pytest>=7.0.0
+pytest-cov>=4.0.0
+pytest-mock>=3.10.0
+flask-testing>=0.8.1
+requests-mock>=1.10.0
